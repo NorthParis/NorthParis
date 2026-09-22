@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NorthParis
 - 👀 I’m interested in С++, GO
-- 🌱 I’m currently learning GO, CS
+- 🌱 I’m currently learning GO, CS, ML, Python, DE
 - 📫 How to reach me: here)
